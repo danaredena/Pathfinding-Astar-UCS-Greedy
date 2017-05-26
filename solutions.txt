@@ -1,0 +1,4 @@
+Solutions for map-ex.png
+Uniform-Cost: 460
+Greedy-BFS: 562
+A*: 460
